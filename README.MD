@@ -26,7 +26,7 @@
    -  *css-loader* collects CSS from all files and convert it into string.
    -  *style-loader* takes the output string from css-loader and put it into style tag under html head.
 7. Create folder structure
-   * ![image info](./images/folder_structure.png)
+   * ![folder structure](/images/folder_structure.PNG)
 
    - **src folder** - will contain the main logic of the app
    - **dist folder** - will container our index html and bundled js
